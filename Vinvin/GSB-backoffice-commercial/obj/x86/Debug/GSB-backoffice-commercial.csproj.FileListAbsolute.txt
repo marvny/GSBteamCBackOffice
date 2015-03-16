@@ -1,0 +1,8 @@
+F:\Travaux\C# projets\GSB-backoffice-commercial\GSB-backoffice-commercial\bin\Debug\GSB-backoffice-commercial.exe
+F:\Travaux\C# projets\GSB-backoffice-commercial\GSB-backoffice-commercial\bin\Debug\GSB-backoffice-commercial.pdb
+F:\Travaux\C# projets\GSB-backoffice-commercial\GSB-backoffice-commercial\obj\x86\Debug\GSB_backoffice_commercial.Principal.resources
+F:\Travaux\C# projets\GSB-backoffice-commercial\GSB-backoffice-commercial\obj\x86\Debug\GSB_backoffice_commercial.Properties.Resources.resources
+F:\Travaux\C# projets\GSB-backoffice-commercial\GSB-backoffice-commercial\obj\x86\Debug\GSB-backoffice-commercial.csproj.GenerateResource.Cache
+F:\Travaux\C# projets\GSB-backoffice-commercial\GSB-backoffice-commercial\obj\x86\Debug\GSB-backoffice-commercial.exe
+F:\Travaux\C# projets\GSB-backoffice-commercial\GSB-backoffice-commercial\obj\x86\Debug\GSB-backoffice-commercial.pdb
+F:\Travaux\C# projets\GSB-backoffice-commercial\GSB-backoffice-commercial\obj\x86\Debug\GSB-backoffice-commercial.csprojResolveAssemblyReference.cache
