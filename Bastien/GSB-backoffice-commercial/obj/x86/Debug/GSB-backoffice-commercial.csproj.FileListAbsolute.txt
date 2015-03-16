@@ -1,0 +1,33 @@
+F:\Travaux\C# projets\GSB-backoffice-commercial\GSB-backoffice-commercial\bin\Debug\GSB-backoffice-commercial.exe
+F:\Travaux\C# projets\GSB-backoffice-commercial\GSB-backoffice-commercial\bin\Debug\GSB-backoffice-commercial.pdb
+F:\Travaux\C# projets\GSB-backoffice-commercial\GSB-backoffice-commercial\obj\x86\Debug\GSB_backoffice_commercial.Principal.resources
+F:\Travaux\C# projets\GSB-backoffice-commercial\GSB-backoffice-commercial\obj\x86\Debug\GSB_backoffice_commercial.Properties.Resources.resources
+F:\Travaux\C# projets\GSB-backoffice-commercial\GSB-backoffice-commercial\obj\x86\Debug\GSB-backoffice-commercial.csproj.GenerateResource.Cache
+F:\Travaux\C# projets\GSB-backoffice-commercial\GSB-backoffice-commercial\obj\x86\Debug\GSB-backoffice-commercial.exe
+F:\Travaux\C# projets\GSB-backoffice-commercial\GSB-backoffice-commercial\obj\x86\Debug\GSB-backoffice-commercial.pdb
+C:\Users\francesconi\Documents\Visual Studio 2010\Projects\GSB-backoffice-commercial\GSB-backoffice-commercial\obj\x86\Debug\GSB-backoffice-commercial.exe
+C:\Users\francesconi\Documents\Visual Studio 2010\Projects\GSB-backoffice-commercial\GSB-backoffice-commercial\obj\x86\Debug\GSB-backoffice-commercial.pdb
+C:\Users\francesconi\Documents\Visual Studio 2010\Projects\GSB-backoffice-commercial\GSB-backoffice-commercial\bin\Debug\GSB-backoffice-commercial.exe
+C:\Users\francesconi\Documents\Visual Studio 2010\Projects\GSB-backoffice-commercial\GSB-backoffice-commercial\bin\Debug\GSB-backoffice-commercial.pdb
+C:\Users\francesconi\Documents\Visual Studio 2010\Projects\GSB-backoffice-commercial\GSB-backoffice-commercial\obj\x86\Debug\GSB_backoffice_commercial.Principal.resources
+C:\Users\francesconi\Documents\Visual Studio 2010\Projects\GSB-backoffice-commercial\GSB-backoffice-commercial\obj\x86\Debug\GSB_backoffice_commercial.Properties.Resources.resources
+C:\Users\francesconi\Documents\Visual Studio 2010\Projects\GSB-backoffice-commercial\GSB-backoffice-commercial\obj\x86\Debug\GSB-backoffice-commercial.csproj.GenerateResource.Cache
+C:\Users\francesconi\Documents\Visual Studio 2010\Projects\GSB-backoffice-commercial\GSB-backoffice-commercial\obj\x86\Debug\GSB-backoffice-commercial.csprojResolveAssemblyReference.cache
+G:\ICOF\PPE\GSB_Projet2\GSB-backoffice-commercial\GSB-backoffice-commercial\obj\x86\Debug\GSB-backoffice-commercial.exe
+G:\ICOF\PPE\GSB_Projet2\GSB-backoffice-commercial\GSB-backoffice-commercial\obj\x86\Debug\GSB-backoffice-commercial.pdb
+G:\ICOF\PPE\GSB_Projet2\GSB-backoffice-commercial\GSB-backoffice-commercial\bin\Debug\GSB-backoffice-commercial.exe
+G:\ICOF\PPE\GSB_Projet2\GSB-backoffice-commercial\GSB-backoffice-commercial\bin\Debug\GSB-backoffice-commercial.pdb
+G:\ICOF\PPE\GSB_Projet2\GSB-backoffice-commercial\GSB-backoffice-commercial\obj\x86\Debug\GSB-backoffice-commercial.csprojResolveAssemblyReference.cache
+G:\ICOF\PPE\GSB_Projet2\GSB-backoffice-commercial\GSB-backoffice-commercial\obj\x86\Debug\GSB_backoffice_commercial.Principal.resources
+G:\ICOF\PPE\GSB_Projet2\GSB-backoffice-commercial\GSB-backoffice-commercial\obj\x86\Debug\GSB_backoffice_commercial.Properties.Resources.resources
+G:\ICOF\PPE\GSB_Projet2\GSB-backoffice-commercial\GSB-backoffice-commercial\obj\x86\Debug\GSB-backoffice-commercial.csproj.GenerateResource.Cache
+F:\ICOF\PPE\GSB_Projet2\GSB-backoffice-commercial\GSB-backoffice-commercial\obj\x86\Debug\GSB-backoffice-commercial.exe
+F:\ICOF\PPE\GSB_Projet2\GSB-backoffice-commercial\GSB-backoffice-commercial\obj\x86\Debug\GSB-backoffice-commercial.pdb
+F:\code\GSB-backoffice-commercial-marvyn\GSB-backoffice-commercial\obj\x86\Debug\GSB-backoffice-commercial.exe
+F:\code\GSB-backoffice-commercial-marvyn\GSB-backoffice-commercial\obj\x86\Debug\GSB-backoffice-commercial.pdb
+F:\code\GSB-backoffice-commercial-marvyn\GSB-backoffice-commercial\bin\Debug\GSB-backoffice-commercial.exe
+F:\code\GSB-backoffice-commercial-marvyn\GSB-backoffice-commercial\bin\Debug\GSB-backoffice-commercial.pdb
+F:\code\GSB-backoffice-commercial-marvyn\GSB-backoffice-commercial\obj\x86\Debug\GSB-backoffice-commercial.csprojResolveAssemblyReference.cache
+F:\code\GSB-backoffice-commercial-marvyn\GSB-backoffice-commercial\obj\x86\Debug\GSB_backoffice_commercial.Principal.resources
+F:\code\GSB-backoffice-commercial-marvyn\GSB-backoffice-commercial\obj\x86\Debug\GSB_backoffice_commercial.Properties.Resources.resources
+F:\code\GSB-backoffice-commercial-marvyn\GSB-backoffice-commercial\obj\x86\Debug\GSB-backoffice-commercial.csproj.GenerateResource.Cache
