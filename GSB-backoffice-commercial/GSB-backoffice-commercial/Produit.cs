@@ -191,7 +191,7 @@ namespace GSB_backoffice_commercial
             return message;
         }
 
-        // Création de la list Produit en provenance du DAOProduit où ils ont été récupérés.
+        // Création de la liste Produit en provenance du DAOProduit où ils ont été récupérés.
         public static List<Produit> listeProduit()
         {
             List<Produit> laListe = DAOProduit.listeProduit();
@@ -206,7 +206,7 @@ namespace GSB_backoffice_commercial
             return message;
         }
 
-        // Création de la list Famille en provenance du DAOProduit où ils ont été récupérés.
+        // Création de la liste Famille en provenance du DAOProduit où ils ont été récupérés.
         public static ArrayList listeFamille()
         {
             ArrayList lesFamilles = DAOProduit.listeFamille();
