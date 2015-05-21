@@ -32,7 +32,7 @@ namespace GSB_backoffice_commercial
                         dr.GetInt32(6), dr.GetDouble(7), dr.GetDouble(8), dr.GetString(9));
                     resultat.Add(r);
                 }
-                p.deconnexion();
+                p.deconnection();
             }
             catch (Exception e)
             {
@@ -59,7 +59,7 @@ namespace GSB_backoffice_commercial
                 {
                     lesFamilles.Add(dr.GetString(1));
                 }
-                p.deconnexion();
+                p.deconnection();
             }
             catch (Exception e)
             {
@@ -71,6 +71,9 @@ namespace GSB_backoffice_commercial
         // Requête de création d'un nouveau produit dans la BDD.
         public static string creerProduit(Produit leProduit)
         {
+            string prixHT = leProduit.getPrixHT().ToString();
+            string prixEch = leProduit.getPrixEch().ToString();
+
             DAOFactory p = new DAOFactory();
             Produit produit;
             //MySqlDataReader leSelect = select();
@@ -78,12 +81,12 @@ namespace GSB_backoffice_commercial
             string req = "set identity_insert produit ON; insert into produit(num, nom, effet, contre_indic, presentation, dosage, idFamille, prixHT, prixEchant, interactions) values(" + leProduit.getNum() + ", "
                 +"'"+leProduit.getNom()+ "', '"+leProduit.getEffet()+"', '"+leProduit.getCI()+"', '"
                 +leProduit.getPresentation()+"', '"+leProduit.getDosage()+"', "+getIDFamille(leProduit.getFamille())
-                + ", " + leProduit.getPrixHT() + ", " + leProduit.getPrixEch() + ", '" + leProduit.getInteraction() + "');";
+                + ", " + prixHT.Replace(',', '.') + ", " + prixEch.Replace(',', '.') + ", '" + leProduit.getInteraction() + "');";
             try
             {
                 p.connexion();
                 p.execSql(req);
-                p.deconnexion();
+                p.deconnection();
                 return "Produit crée";
             }
             catch (Exception e)
@@ -102,7 +105,7 @@ namespace GSB_backoffice_commercial
                 p.connexion();
                 string requeteLigne = "DELETE FROM produit WHERE num=" + num + ";";
                 p.execSql(requeteLigne);
-                p.deconnexion();
+                p.deconnection();
                 return "Produit Supprimé";
             }
             catch (Exception e)
@@ -134,7 +137,7 @@ namespace GSB_backoffice_commercial
             {
                 p.connexion();
                 p.execSql(requeteLigne);
-                p.deconnexion();
+                p.deconnection();
                 return "Produit modifié";
             }
             catch (Exception e)
@@ -157,7 +160,7 @@ namespace GSB_backoffice_commercial
                 SqlDataReader dre = p.execSql(req);
                 dre.Read(); //Soucis : Sans le Read, la requête ne passe pas !
                 resultat = dre.GetString(0);
-                p.deconnexion();
+                p.deconnection();
             }
             catch (Exception e)
             {
@@ -178,7 +181,7 @@ namespace GSB_backoffice_commercial
                 SqlDataReader dr = p.execSql(req);
                 dr.Read();
                 resultat = dr.GetInt32(0);
-                p.deconnexion();
+                p.deconnection();
             }
             catch (Exception e)
             {

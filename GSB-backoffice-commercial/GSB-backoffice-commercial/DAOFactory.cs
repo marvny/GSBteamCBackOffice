@@ -39,7 +39,8 @@ namespace GSB_backoffice_commercial
         }
 
         //Permet la déconnexion à la BDD.
-        public void deconnexion(){
+        public void deconnection()
+        {
             cnx.Close();
         }
 
@@ -47,7 +48,7 @@ namespace GSB_backoffice_commercial
         public SqlDataReader execSql(string requete)
         {
             SqlCommand cmd = new SqlCommand();
-            SqlDataReader dr;
+            SqlDataReader dr; 
             try
             {
                 cmd.CommandText = requete;

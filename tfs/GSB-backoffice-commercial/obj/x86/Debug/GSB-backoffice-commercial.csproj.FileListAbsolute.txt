@@ -1,7 +1,0 @@
-F:\code\GSB-backoffice-teamC\GSB-backoffice-commercial\GSB-backoffice-commercial\bin\Debug\GSB-backoffice-commercial.exe
-F:\code\GSB-backoffice-teamC\GSB-backoffice-commercial\GSB-backoffice-commercial\bin\Debug\GSB-backoffice-commercial.pdb
-F:\code\GSB-backoffice-teamC\GSB-backoffice-commercial\GSB-backoffice-commercial\obj\x86\Debug\GSB_backoffice_commercial.Principal.resources
-F:\code\GSB-backoffice-teamC\GSB-backoffice-commercial\GSB-backoffice-commercial\obj\x86\Debug\GSB_backoffice_commercial.Properties.Resources.resources
-F:\code\GSB-backoffice-teamC\GSB-backoffice-commercial\GSB-backoffice-commercial\obj\x86\Debug\GSB-backoffice-commercial.csproj.GenerateResource.Cache
-F:\code\GSB-backoffice-teamC\GSB-backoffice-commercial\GSB-backoffice-commercial\obj\x86\Debug\GSB-backoffice-commercial.exe
-F:\code\GSB-backoffice-teamC\GSB-backoffice-commercial\GSB-backoffice-commercial\obj\x86\Debug\GSB-backoffice-commercial.pdb
